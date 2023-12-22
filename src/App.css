@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height: 100vh;
+}
+
+.block {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.santa {
+  width: 100%;
+}
+
+.present-back {
+  background-color: rgb(169, 103, 50, .5);
+}
+
+.present {
+  width: 100%;
+}
+
+.modal-overlay {
+  position: fixed; /* 画面全体を覆う */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* 半透明の黒色 */
+  display: flex;
+  justify-content: center; /* 水平方向の中央揃え */
+  align-items: center; /* 垂直方向の中央揃え */
+  z-index: 1000; /* 他の要素より前面に表示 */
+}
+
+.modal-content {
+  position: relative;
+  background-color: white; /* 白色の背景 */
+  border-radius: 5px; /* 角を丸める */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 影を付ける */
+  z-index: 1001; /* オーバーレイよりも前面に表示 */
+  width: 80%;
+}
+
+.content {
+  width: 80%;
+  padding: 10px 0 20px;
+}
+
+.cross {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
+
+.merry {
+  width: 80%;
+  height: auto;
+  padding-top: 20px;
+}
