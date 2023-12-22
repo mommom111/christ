@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mommom111/christ.git/static/css/main.c3ec0a3d.css",
-    "main.js": "/mommom111/christ.git/static/js/main.9f49bcd0.js",
-    "static/media/merry-christmas.gif": "/mommom111/christ.git/static/media/merry-christmas.8cda007b08d0a851bb12.gif",
-    "static/media/present.gif": "/mommom111/christ.git/static/media/present.8ea6739b11487bc02554.gif",
-    "static/media/content.png": "/mommom111/christ.git/static/media/content.57f5df803d92af5ac297.png",
-    "static/media/pixel-merry.png": "/mommom111/christ.git/static/media/pixel-merry.de1f606e9e9ba66de08c.png",
-    "index.html": "/mommom111/christ.git/index.html",
-    "static/media/cross.svg": "/mommom111/christ.git/static/media/cross.7c9247771af595a88ededfce87185dcd.svg",
-    "main.c3ec0a3d.css.map": "/mommom111/christ.git/static/css/main.c3ec0a3d.css.map",
-    "main.9f49bcd0.js.map": "/mommom111/christ.git/static/js/main.9f49bcd0.js.map"
+    "main.css": "/github.io/christ.git/static/css/main.c3ec0a3d.css",
+    "main.js": "/github.io/christ.git/static/js/main.56a3bd70.js",
+    "static/media/merry-christmas.gif": "/github.io/christ.git/static/media/merry-christmas.8cda007b08d0a851bb12.gif",
+    "static/media/present.gif": "/github.io/christ.git/static/media/present.8ea6739b11487bc02554.gif",
+    "static/media/content.png": "/github.io/christ.git/static/media/content.57f5df803d92af5ac297.png",
+    "static/media/pixel-merry.png": "/github.io/christ.git/static/media/pixel-merry.de1f606e9e9ba66de08c.png",
+    "index.html": "/github.io/christ.git/index.html",
+    "static/media/cross.svg": "/github.io/christ.git/static/media/cross.7c9247771af595a88ededfce87185dcd.svg",
+    "main.c3ec0a3d.css.map": "/github.io/christ.git/static/css/main.c3ec0a3d.css.map",
+    "main.56a3bd70.js.map": "/github.io/christ.git/static/js/main.56a3bd70.js.map"
   },
   "entrypoints": [
     "static/css/main.c3ec0a3d.css",
-    "static/js/main.9f49bcd0.js"
+    "static/js/main.56a3bd70.js"
   ]
 }
