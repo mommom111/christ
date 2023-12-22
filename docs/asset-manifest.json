@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/christ.git/static/css/main.c3ec0a3d.css",
-    "main.js": "/christ.git/static/js/main.1d051584.js",
-    "static/media/merry-christmas.gif": "/christ.git/static/media/merry-christmas.8cda007b08d0a851bb12.gif",
-    "static/media/present.gif": "/christ.git/static/media/present.8ea6739b11487bc02554.gif",
-    "static/media/content.png": "/christ.git/static/media/content.57f5df803d92af5ac297.png",
-    "static/media/pixel-merry.png": "/christ.git/static/media/pixel-merry.de1f606e9e9ba66de08c.png",
-    "static/media/cross.svg": "/christ.git/static/media/cross.7c9247771af595a88ededfce87185dcd.svg",
-    "index.html": "/christ.git/index.html",
-    "main.c3ec0a3d.css.map": "/christ.git/static/css/main.c3ec0a3d.css.map",
-    "main.1d051584.js.map": "/christ.git/static/js/main.1d051584.js.map"
+    "main.css": "/christ/static/css/main.c3ec0a3d.css",
+    "main.js": "/christ/static/js/main.243d6e10.js",
+    "static/media/merry-christmas.gif": "/christ/static/media/merry-christmas.8cda007b08d0a851bb12.gif",
+    "static/media/present.gif": "/christ/static/media/present.8ea6739b11487bc02554.gif",
+    "static/media/content.png": "/christ/static/media/content.57f5df803d92af5ac297.png",
+    "static/media/pixel-merry.png": "/christ/static/media/pixel-merry.de1f606e9e9ba66de08c.png",
+    "static/media/cross.svg": "/christ/static/media/cross.7c9247771af595a88ededfce87185dcd.svg",
+    "index.html": "/christ/index.html",
+    "main.c3ec0a3d.css.map": "/christ/static/css/main.c3ec0a3d.css.map",
+    "main.243d6e10.js.map": "/christ/static/js/main.243d6e10.js.map"
   },
   "entrypoints": [
     "static/css/main.c3ec0a3d.css",
-    "static/js/main.1d051584.js"
+    "static/js/main.243d6e10.js"
   ]
 }
